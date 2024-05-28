@@ -1,0 +1,3 @@
+-12 13 ON off OFF = on off ON 1 2 7 8 10 off -1000 =
+-12 13 ON off OFF = on off ON 1 2 7 8 10 off -1000 =
+-12 13 ON off OFF = on off ON 1 2 7 8 10 off -1000 =
