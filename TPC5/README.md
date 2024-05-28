@@ -4,8 +4,8 @@
 
 ## Autor:
 
-- a100643
-- Rui Lopes Martins
+- a100747
+- João Paulo Campelo Gomes
 
 ## Resumo
 
